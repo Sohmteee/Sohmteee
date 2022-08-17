@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a mobile app that teaches Java Programming
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: sohmteecodes@gmail.com
+- 📫 How to reach me: [email](sohmteecodes@gmail.com)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=sohmteee&show_icons=true&theme=gotham" alt="github stats" width="45%" align="center"/>
