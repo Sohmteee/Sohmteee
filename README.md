@@ -19,10 +19,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: [email 1](ukaegbesomtochukwu@gmail.com), [email 2](sohmteecodes@gmail.com)
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=sohmteee&show_icons=true&theme=gotham" alt="github stats" width="45%" align="center"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohmteee&theme=dark" width="48%"  align="center" >
-
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohmteee&layout=compact)
  
