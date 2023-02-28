@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a mobile app that teaches Java Programming
+- 🔭 I’m currently working on a mobile version of ChatGPT
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: [email 1](ukaegbesomtochukwu@gmail.com), [email 2](sohmteecodes@gmail.com)
 
