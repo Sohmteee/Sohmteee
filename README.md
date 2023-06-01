@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a mobile version of ChatGPT
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning backend languages like MySQL and MongoDB
 - 📫 How to reach me: [email 1](ukaegbesomtochukwu@gmail.com), [email 2](sohmteecodes@gmail.com)
+- ⚡ Fun fact: I've been coding since I was 15
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohmteee&layout=compact)
  
