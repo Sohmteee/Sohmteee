@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 <h2>I have built some apps using mainly Java, Flutter, Firebase and other stuffs ✍</h2>
 
-- 🌱 Ask me anything about coding with Python and Flutter
 - 🔭 I’m currently working on a mobile version of ChatGPT
 - 🌱 I’m currently learning backend languages like MySQL and MongoDB
 - 📫 How to reach me: [email 1](ukaegbesomtochukwu@gmail.com), [email 2](sohmteecodes@gmail.com)
