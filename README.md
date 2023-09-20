@@ -27,9 +27,13 @@ Here are some ideas to get you started:
 
 <br />
 # . 🌱 Ask me anything about coding with Python and Flutter
+<br />
 # . 🔭 I’m currently working on a mobile version of ChatGPT
+<br />
 # . 🌱 I’m currently learning backend languages like MySQL and MongoDB
+<br />
 # . 📫 How to reach me: [email 1](ukaegbesomtochukwu@gmail.com), [email 2](sohmteecodes@gmail.com)
+<br />
 # . ⚡ Fun fact: I've been coding since I was 15
 
 <h2>Statistics 📈</h2>
