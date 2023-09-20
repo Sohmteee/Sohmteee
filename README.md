@@ -81,25 +81,21 @@ style="vertical-align:top; margin: 4px">
     ><img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
   /></a>
-  <a href="https://t.me/sohmtee"
-    ><img
-      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-  /></a>
 </p>
 
 <br />
 
 <h2>My Social Profiles 📸</h2>
 <p>
-  <a href="https://web.facebook.com/derrickchimere.koko.5"
+  <a href="https://www.facebook.com/somtochukwu.ukaegbe"
     ><img
       src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
   /></a>
-  <a href="https://instagram.com/tech_with_derrick"
+  <a href="https://www.instagram.com/sohmteee/"
     ><img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
   /></a>
-  <a href="https://twitter.com/techwithderrick"
+  <a href="https://twitter.com/sohmteecodes"
     ><img
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
   /></a>
@@ -113,15 +109,9 @@ style="vertical-align:top; margin: 4px">
     ><img
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
   /></a>
-  <a href="https://stackoverflow.com/users/13106005/derrick-koko"
+  <a href="https://stackoverflow.com/users/18538412/sohmtee"
     ><img
       src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
   /></a>
 </p>
-
-
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohmteee&layout=compact)
- 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Sohmteee)](https://git.io/streak-stats)
  
