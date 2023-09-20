@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Sohmteee/Sohmteee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +16,6 @@ Here are some ideas to get you started:
 
 <h2>Hello there 👋😎</h2>
 <h1>My name is Somtochukwu Ukaegbe</h1>
-
-<br />
-
 <h3>I am a Software Engineer at EL Incorporated and the CTO of Pec Africa.</h3>
 <br>
 
