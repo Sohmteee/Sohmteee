@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <h2>My name is Somtochukwu Ukaegbe</h2>
 <h3>I am a Mobile Developer at EL Incorporated and the CTO of Pec Africa.</h3>
 <br>
-
 <h2>I have built some apps using mainly Java, Flutter, Firebase and other stuffs ✍</h2>
 
 - 🔭 I’m currently working on a mobile version of ChatGPT
