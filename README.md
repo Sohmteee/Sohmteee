@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h2>I have built some apps using mainly Java, Flutter, Firebase and other stuff. ✍</h2>
 
 - 🔭 I’m currently working as a freelancer
-- 📫 How to reach me: [Email 1](mailto:ukaegbesomtochukwu@gmail.com), [Email 2](mailto:sohmteecodes@gmail.com) [Whatsapp line](https://wa.me/2348063828438)
+- 📫 How to reach me: [Email 1](mailto:ukaegbesomtochukwu@gmail.com), [Email 2](mailto:sohmteecodes@gmail.com) [Whatsapp](https://wa.me/2348063828438)
 - ⚡ Fun fact: I started coding at 15
 
 <h2>Statistics 📈</h2>
@@ -71,6 +71,13 @@ style="vertical-align:top; margin: 4px">
   <a href="mailto:sohmteecodes@gmail.com"
     ><img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  /></a>
+</p>
+
+<p>
+  <a href="https://wa.me/2348063828438" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
   /></a>
 </p>
 
