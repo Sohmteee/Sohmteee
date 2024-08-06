@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 -->
 
 <h2>Hello there 👋😎</h2>
-<h2>My name is Somtochukwu Ukaegbe</h2>
-<h3>I am a Mobile Developer at EL Incorporated and the CTO of Pec Africa.</h3>
+<h2>My name is Somtochukwu Ukaegbe.</h2>
+<h3>I am a Mobile Developer.</h3>
 <!-- <br> -->
-<h2>I have built some apps using mainly Java, Flutter, Firebase and other stuffs ✍</h2>
+<h2>I have built some apps using mainly Java, Flutter, Firebase and other stuff. ✍</h2>
 
-- 🔭 I’m currently working on a mobile version of ChatGPT
-- 🌱 I’m currently learning backend languages like MySQL and MongoDB
-- 📫 How to reach me: [email 1](ukaegbesomtochukwu@gmail.com), [email 2](sohmteecodes@gmail.com)
-- ⚡ Fun fact: I've been coding since I was 15
+- 🔭 I’m currently working as a freelancer
+<!-- - 🌱 I’m currently learning backend languages like MySQL and MongoDB -->
+- 📫 How to reach me: [Email 1](ukaegbesomtochukwu@gmail.com), [Email 2](sohmteecodes@gmail.com) [Whatsapp line](+2348063828438)
+- ⚡ Fun fact: I started coding at 15
 
 <h2>Statistics 📈</h2>
 
