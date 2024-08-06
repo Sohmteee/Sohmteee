@@ -77,7 +77,7 @@ style="vertical-align:top; margin: 4px">
 <p>
   <a href="https://wa.me/2348063828438" target="_blank"
     ><img
-      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+      src="https://img.shields.io/badge/WhatsApp?style=for-the-badge&logo=whatsapp&logoColor=white"
   /></a>
 </p>
 
