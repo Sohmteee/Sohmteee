@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 
 <h2>Hello there 👋😎</h2>
 <h2>My name is Somtochukwu Ukaegbe.</h2>
-<h3>I am a Mobile Developer.</h3>
+<h3>I am a Flutter Mobile Developer.</h3>
 <!-- <br> -->
-<h2>I have built some apps using mainly Java, Flutter, Firebase and other stuff. ✍</h2>
 
 - 🔭 I’m currently working as a freelancer
 - 📫 How to reach me: [Email 1](mailto:ukaegbesomtochukwu@gmail.com), [Email 2](mailto:sohmteecodes@gmail.com) [Whatsapp](https://wa.me/2348063828438)
