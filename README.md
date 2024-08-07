@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- <br> -->
 
 - 🔭 I’m currently working as a freelancer
-- 📫 How to reach me: [Email 1](mailto:ukaegbesomtochukwu@gmail.com), [Email 2](mailto:sohmteecodes@gmail.com) [Whatsapp](https://wa.me/2348063828438)
+- 📫 How to reach me: [Email 1](mailto:ukaegbesomtochukwu@gmail.com), [Email 2](mailto:sohmteecodes@gmail.com), [Whatsapp](https://wa.me/2348063828438)
 - ⚡ Fun fact: I started coding at 15
 
 <h2>Statistics 📈</h2>
