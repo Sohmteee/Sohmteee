@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 
 - 🎓 **Final Year Project**: Working on a word generator app with integrated mini word games
-- 💼 **Experience**: I've been a programmer for 6+ years, a mobile developer for 3+ years
-- 🔧 **Technologies**: Flutter, Dart, Firebase, RESTful API and more!
+- 💼 **Experience**: I've been a programmer for 6+ years, and a mobile developer for 3+ years
+- 🔧 **Technologies**: Flutter, Dart, Firebase, RESTful APIs and more!
 - 📱 **Current Projects**:
   - Lexura: A word generator app with integrated mini word games
   - StokOps: A robust app for managing inventory with analytics and graph features, both online and offline
@@ -69,22 +69,21 @@ style="vertical-align:top; margin: 4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="FireBase" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-  
-  
-  
-
 </p>
 
 
 
-<h2>Get in Touch with Me 📩</h2>
+<h2>Get in Touch with Me 📩📞</h2>
 <p>
   <a href="mailto:sohmteecodes@gmail.com"
     ><img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
   /></a>
-  
   <a href="https://wa.me/2348063828438" 
+    ><img
+      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+  /></a>
+  <a href="https://t.me/sohmteee" 
     ><img
       src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
   /></a>
@@ -102,9 +101,9 @@ style="vertical-align:top; margin: 4px">
     ><img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
   /></a>
-  <a href="https://twitter.com/sohmteecodes"
+  <a href="https://x.com/sohmteecodes"
     ><img
-      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+      src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
   /></a>
 </p>
 
