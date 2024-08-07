@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer with a knack fo
   - Auscy: An AI chatbot with robust chatting features
 
 
-<h2>Statistics 📈</h2>
+<h2>📈 Statistics</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sohmteee&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -51,16 +51,15 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer with a knack fo
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### Random Dev Jokes
+### 😂 Random Dev Jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sohmteee&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-
 ## 🧰 Languages and Tools:
-<p align="center">
+<p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
@@ -73,7 +72,7 @@ style="vertical-align:top; margin: 4px">
 
 
 
-<h2>Get in Touch with Me 📩📞</h2>
+<h2>📩📞 Get in Touch with Me</h2>
 <p>
   <a href="mailto:sohmteecodes@gmail.com"
     ><img
@@ -91,7 +90,7 @@ style="vertical-align:top; margin: 4px">
 
 <br />
 
-<h2>My Social Profiles 📸</h2>
+<h2>📸 My Social Profiles</h2>
 <p>
   <a href="https://www.facebook.com/somtochukwu.ukaegbe"
     ><img
@@ -109,7 +108,7 @@ style="vertical-align:top; margin: 4px">
 
 <br />
 
-<h2>Dev Profiles 💻</h2>
+<h2>💻 Dev Profiles</h2>
 <p>
   <a href="https://github.com/sohmteee"
     ><img
