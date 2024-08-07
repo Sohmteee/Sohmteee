@@ -13,15 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h2>Hello there 👋😎</h2>
-<h2>My name is Somtochukwu Ukaegbe.</h2>
-<h3>I am a Flutter Mobile Developer.</h3>
+## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> Hello World!
+  
+<h3>Welcome to my GitHub profile! I'm a passionate Flutter developer with a knack for creating versatile and engaging mobile applications. Here's a little about me:</h3>
 <!-- <br> -->
 
-- 🔭 I’m currently working as a freelancer
-- 📫 How to reach me: [Email 1](mailto:ukaegbesomtochukwu@gmail.com), [Email 2](mailto:sohmteecodes@gmail.com), [Whatsapp](https://wa.me/2348063828438)
-- ⚡ Fun fact: I started coding at 15
+## 🚀 About Me
+
+- 🎓 **Final Year Project**: Working on a word generator app with integrated mini word games
+- 💼 **Experience**: I've been a programmer for 6+ years, a mobile developer for 3+ years
+- 🔧 **Technologies**: Flutter, Dart, Firebase, RESTful API and more!
+- 📱 **Current Projects**:
+  - Lexura: A word generator app with integrated mini word games
+  - StokOps: A robust app for managing inventory with analytics and graph features, both online and offline
+  - Munch Hive: A food delivery mobile app
+  - Auscy: An AI chatbot with robust chatting features
+
 
 <h2>Statistics 📈</h2>
 
@@ -33,6 +40,8 @@ Here are some ideas to get you started:
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sohmteee&langs_count=5&theme=tokyonight)]()
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=sohmteee&theme=tokyo-night)
+
 ![](https://komarev.com/ghpvc/?username=sohmteee&color=green)
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=sohmteee&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="200" style="vertical-align:top; margin:4px">
@@ -41,6 +50,9 @@ Here are some ideas to get you started:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### Random Dev Jokes
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sohmteee&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -71,12 +83,10 @@ style="vertical-align:top; margin: 4px">
     ><img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
   /></a>
-</p>
-
-<p>
-  <a href="https://wa.me/2348063828438" target="_blank"
+  
+  <a href="https://wa.me/2348063828438" 
     ><img
-      src="https://img.shields.io/badge/WhatsApp?style=for-the-badge&logo=whatsapp&logoColor=white"
+      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
   /></a>
 </p>
 
