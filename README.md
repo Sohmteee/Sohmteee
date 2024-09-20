@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer with a knack fo
 - 💼 **Experience**: I've been a programmer for 6+ years, and a mobile developer for 3+ years
 - 🔧 **Technologies**: Flutter, Dart, Firebase, RESTful APIs and more!
 - 📱 **Current Projects**:
-  - Lexura: A word generator app with integrated mini word games
+  - Lexora: A word generator app with integrated mini word games
   - StokOps: A robust app for managing inventory with analytics and graph features, both online and offline
   - Munch Hive: A food delivery mobile app
   - Auscy: An AI chatbot with robust chatting features
