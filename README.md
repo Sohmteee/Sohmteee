@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer with a knack fo
 ## 🚀 About Me
 
 - 🎓 **Final Year Project**: Working on a word generator app with integrated mini word games
-- 💼 **Experience**: I've been a programmer for 6+ years, and a mobile developer for 3+ years
+- 💼 **Experience**: I've been a programmer for 7+ years, and a mobile developer for 4+ years
 - 🔧 **Technologies**: Flutter, Dart, Firebase, RESTful APIs and more!
 - 📱 **Current Projects**:
   - Lexora: A word generator app with integrated mini word games
